@@ -19,7 +19,7 @@ import React, {
   const HARD_CODED_DEPLOY_TOKEN = token;
   
   const REPO_OWNER = 'ryanhlewis';
-  const REPO_NAME = 'ryan-app';
+  const REPO_NAME = 'serverlessportfolio';
   const REPO_BRANCH = 'main';
   
   interface GHFile {
